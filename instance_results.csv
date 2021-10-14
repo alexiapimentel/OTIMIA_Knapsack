@@ -1,0 +1,45 @@
+﻿group,Inst,sat_gurobi_time,sat_gurobi_solution_check,satyrus_dwave_time,satyrus_dwave_solution_check,xpress_time
+"Guilherme S. Souza, Thales Mesentier",1,0.63,wright,1.79,wrong,0.015
+"Guilherme S. Souza, Thales Mesentier",2,0.4,wrong,0.76,wright,0.017
+"Guilherme S. Souza, Thales Mesentier",3,0.31,wrong,0.84,wrong,0.16
+"Guilherme S. Souza, Thales Mesentier",4,0.47,wrong,0.77,wrong,0.016
+"Guilherme S. Souza, Thales Mesentier",5,0.53,wright,0.75,wrong,0.017
+"Guilherme S. Souza, Thales Mesentier",6,0.58,wright,1.23,wrong,0.016
+"Guilherme S. Souza, Thales Mesentier",7,0.31,wright,0.81,wrong,0.017
+"Guilherme S. Souza, Thales Mesentier",8,0.41,wright,0.93,wrong,0.017
+"Guilherme S. Souza, Thales Mesentier",9,0.64,wright,1.63,wrong,0.016
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",1,0.31,wrong,0.35,wrong,0.076
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",2,0.29,wrong,0.57,wrong,0.063
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",3,0.35,wrong,0.69,wrong,0.061
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",4,0.32,wrong,0.44,wrong,0.061
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",5,0.31,wrong,1.07,wrong,0.065
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",6,0.51,wright,1.5,wright,0.06
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",7,0.58,wrong,0.63,wrong,0.072
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",8,0.48,wrong,1.4,wrong,0.061
+"Alexia C. Pimentel, Gabriel Braun, João Guilherme Angstmann",9,0.62,wrong,1.91,wrong,0.093
+"Jose L. J. Ruelas, Rodrigo Peregrino",1,0.429,wright,,,0.58
+"Jose L. J. Ruelas, Rodrigo Peregrino",2,0.479,wright,,,0.056
+"Jose L. J. Ruelas, Rodrigo Peregrino",3,0.523,wrong,,,0.06
+"Jose L. J. Ruelas, Rodrigo Peregrino",4,0.648,wrong,,,0.063
+"Jose L. J. Ruelas, Rodrigo Peregrino",5,4.608,wrong,,,0.1
+"Jose L. J. Ruelas, Rodrigo Peregrino",6,0.478,wright,,,0.061
+"Jose L. J. Ruelas, Rodrigo Peregrino",7,0.561,wright,,,0.056
+"Jose L. J. Ruelas, Rodrigo Peregrino",8,1.905,wright,,,0.056
+"Jose L. J. Ruelas, Rodrigo Peregrino",9,12.119,wright,,,0.59
+"Jose L. J. Ruelas, Rodrigo Peregrino",10,6.694,wright,,,0.056
+"Rodrigo G. Haddad, Vitor Ventura",1,,wright,,,
+"Rodrigo G. Haddad, Vitor Ventura",2,,wright,,,
+"Rodrigo G. Haddad, Vitor Ventura",3,,wright,,,
+"Rodrigo G. Haddad, Vitor Ventura",4,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",1,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",2,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",3,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",4,,wrong,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",5,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",6,,wrong,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",6,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",7,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",8,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",9,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",10,,wright,,,
+"Samuel S. Valentim, Vilma B. Alves, Vinícius S. Ribeiro",11,,wright,,,
